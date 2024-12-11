@@ -4,4 +4,3 @@ and a logistic regression to determine the attack probability for which military
 - The source database contained over 214,000 rows with over 30 variables for each type of terrorist attack.
 - One member completed a random forest model to predict the next country terrrorists may targert, and the other completed
 a k-means clustering to classify attacks by weapon type
-- 
